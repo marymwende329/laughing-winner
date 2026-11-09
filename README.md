@@ -1,1 +1,1 @@
-# laughing-winner
+Parlons budget. Pour la généalogie, j'ai voulu savoir combien ça coûte vraiment, et ce classement m'a aidé à y voir clair: https://prooffeed.com/fr/logiciels-de-g%C3%A9n%C3%A9alogie-familiale Généatique propose trois formules: 29 euros jusqu'à 500 ancêtres, 69 euros pour 1500, 109 euros pour Prestige sans plafond. Heredis a deux niveaux, Standard et Pro, et des applis mobiles gratuites. Ancestris, lui, ne coûte rien du tout. Pour un petit arbre, je prendrais la formule à 29 euros. Pour une grosse recherche, je regarderais Heredis.# laughing-winner
